@@ -1,11 +1,11 @@
 CustomScenario
 {
-	gameVersion = 1.12.6f1
+	gameVersion = 1.11.4f1
 	campaignID = Headless Server
-	campaignOrderIdx = 3
+	campaignOrderIdx = 6
 	scenarioName = BVR George
 	scenarioID = BVR George
-	scenarioDescription = 24/7 BVR. Each team gets 8x F/A-26b, 2x EF-24, 3x T-55, 1x F-45
+	scenarioDescription = 24/7 BVR. Join the discord to see your stats https://discord.gg/yQ8ZW8cQRt
 	mapID = Georgian Mountians Redo
 	vehicle = F-45A
 	multiplayer = True
@@ -58,18 +58,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-1
-			globalPosition = (18635.328000000001, 1026.4221, 72049.850000000006)
+			globalPosition = (55579.203, 947.0706, 171076.97)
 			unitInstanceID = 0
 			unitID = MultiplayerSpawn
-			rotation = (0, 151.5877, 0)
-			lastValidPlacement = (18635.328000000001, 1026.4221, 72049.850000000006)
+			rotation = (0, 349.975, 0)
+			lastValidPlacement = (55579.203, 947.0706, 171076.97)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Alpha
 				startMode = FlightReady
@@ -87,18 +86,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-2
-			globalPosition = (18837.623, 1026.4221, 72159.289999999994)
+			globalPosition = (55352.715, 947.0706, 171036.92)
 			unitInstanceID = 1
 			unitID = MultiplayerSpawn
-			rotation = (0, 151.5877, 0)
-			lastValidPlacement = (18837.623, 1026.4221, 72159.289999999994)
+			rotation = (0, 349.975, 0)
+			lastValidPlacement = (55352.715, 947.0706, 171036.92)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Alpha
 				startMode = FlightReady
@@ -116,18 +114,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-3
-			globalPosition = (19017.049999999999, 1026.4221, 72256.350000000006)
+			globalPosition = (55151.83, 947.0706, 171001.42)
 			unitInstanceID = 2
 			unitID = MultiplayerSpawn
-			rotation = (0, 151.5877, 0)
-			lastValidPlacement = (19017.049999999999, 1026.4221, 72256.350000000006)
+			rotation = (0, 349.975, 0)
+			lastValidPlacement = (55151.83, 947.0706, 171001.42)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Alpha
 				startMode = FlightReady
@@ -145,18 +142,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-4
-			globalPosition = (19356.557000000001, 1026.4221, 72440.016000000003)
+			globalPosition = (54771.723, 947.0706, 170934.22)
 			unitInstanceID = 3
 			unitID = MultiplayerSpawn
-			rotation = (0, 151.5877, 0)
-			lastValidPlacement = (19356.557000000001, 1026.4221, 72440.016000000003)
+			rotation = (0, 349.975, 0)
+			lastValidPlacement = (54771.723, 947.0706, 170934.22)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Alpha
 				startMode = FlightReady
@@ -174,18 +170,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-5
-			globalPosition = (19533.346000000001, 1026.4221, 72535.660000000003)
+			globalPosition = (54573.793, 947.0706, 170899.23)
 			unitInstanceID = 4
 			unitID = MultiplayerSpawn
-			rotation = (0, 151.5877, 0)
-			lastValidPlacement = (19533.346000000001, 1026.4221, 72535.660000000003)
+			rotation = (0, 349.975, 0)
+			lastValidPlacement = (54573.793, 947.0706, 170899.23)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Alpha
 				startMode = FlightReady
@@ -203,18 +198,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-6
-			globalPosition = (19710.134999999998, 1026.4221, 72631.300000000003)
+			globalPosition = (54375.86, 947.0706, 170864.25)
 			unitInstanceID = 5
 			unitID = MultiplayerSpawn
-			rotation = (0, 151.5877, 0)
-			lastValidPlacement = (19710.134999999998, 1026.4221, 72631.300000000003)
+			rotation = (0, 349.975, 0)
+			lastValidPlacement = (54375.86, 947.0706, 170864.25)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Alpha
 				startMode = FlightReady
@@ -232,18 +226,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-7
-			globalPosition = (19915.067999999999, 1026.4221, 72742.160000000003)
+			globalPosition = (54146.418, 947.0706, 170823.69)
 			unitInstanceID = 6
 			unitID = MultiplayerSpawn
-			rotation = (0, 151.5877, 0)
-			lastValidPlacement = (19915.067999999999, 1026.4221, 72742.160000000003)
+			rotation = (0, 349.975, 0)
+			lastValidPlacement = (54146.418, 947.0706, 170823.69)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Alpha
 				startMode = FlightReady
@@ -261,18 +254,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-8
-			globalPosition = (20219.393, 1026.4221, 72906.789999999994)
+			globalPosition = (53805.703, 947.0706, 170763.45)
 			unitInstanceID = 7
 			unitID = MultiplayerSpawn
-			rotation = (0, 151.5877, 0)
-			lastValidPlacement = (20219.393, 1026.4221, 72906.789999999994)
+			rotation = (0, 349.975, 0)
+			lastValidPlacement = (53805.703, 947.0706, 170763.45)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Alpha
 				startMode = FlightReady
@@ -290,22 +282,21 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Bravo 1-1
-			globalPosition = (20397.060000000001, 1026.4221, 73002.910000000003)
+			globalPosition = (53606.785, 947.0706, 170728.28)
 			unitInstanceID = 8
 			unitID = MultiplayerSpawn
-			rotation = (0, 151.5877, 0)
-			lastValidPlacement = (20397.060000000001, 1026.4221, 73002.910000000003)
+			rotation = (0, 349.975, 0)
+			lastValidPlacement = (53606.785, 947.0706, 170728.28)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F-45A
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Bravo
 				startMode = FlightReady
-				equipment = f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;f45-gbu53;
+				equipment = f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-gbu53;
 				initialSpeed = 0
 				rtbIsSpawn = False
 				limitedLives = False
@@ -319,18 +310,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Charlie 1-1
-			globalPosition = (19824.310000000001, 1026.4221, 71768.720000000001)
+			globalPosition = (54539.6, 947.0706, 171718.8)
 			unitInstanceID = 9
 			unitID = MultiplayerSpawn
-			rotation = (0, 331.5877, 0)
-			lastValidPlacement = (19824.310000000001, 1026.4221, 71768.720000000001)
+			rotation = (0, 169.97498, 0)
+			lastValidPlacement = (54539.6, 947.0706, 171718.8)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = EF-24G
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Charlie
 				startMode = FlightReady
@@ -342,25 +332,24 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
-				b_eqAssignmentMode = False
 				slots = 2
+				b_eqAssignmentMode = False
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Charlie 1-2
-			globalPosition = (20194.599999999999, 1026.4221, 71969.039999999994)
+			globalPosition = (54125.03, 947.0706, 171645.5)
 			unitInstanceID = 10
 			unitID = MultiplayerSpawn
-			rotation = (0, 331.5877, 0)
-			lastValidPlacement = (20194.599999999999, 1026.4221, 71969.039999999994)
+			rotation = (0, 169.97498, 0)
+			lastValidPlacement = (54125.03, 947.0706, 171645.5)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = EF-24G
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Charlie
 				startMode = FlightReady
@@ -372,24 +361,24 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
+				slots = 2
 				b_eqAssignmentMode = False
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Delta 1-1
-			globalPosition = (18962.353999999999, 1026.4221, 71302.419999999998)
+			globalPosition = (55504.64, 947.0706, 171889.39)
 			unitInstanceID = 11
 			unitID = MultiplayerSpawn
-			rotation = (0, 331.5877, 0)
-			lastValidPlacement = (18962.353999999999, 1026.4221, 71302.419999999998)
+			rotation = (0, 169.97498, 0)
+			lastValidPlacement = (55504.64, 947.0706, 171889.39)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = T-55
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Delta
 				startMode = FlightReady
@@ -401,24 +390,24 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
+				slots = 2
 				b_eqAssignmentMode = False
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Delta 1-2
-			globalPosition = (19147.939999999999, 1026.4221, 71402.820000000007)
+			globalPosition = (55296.863, 947.0706, 171852.66)
 			unitInstanceID = 12
 			unitID = MultiplayerSpawn
-			rotation = (0, 331.5877, 0)
-			lastValidPlacement = (19147.939999999999, 1026.4221, 71402.820000000007)
+			rotation = (0, 169.97498, 0)
+			lastValidPlacement = (55296.863, 947.0706, 171852.66)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = T-55
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Delta
 				startMode = FlightReady
@@ -430,24 +419,24 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
+				slots = 2
 				b_eqAssignmentMode = False
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Delta 1-3
-			globalPosition = (19337.919999999998, 1026.4221, 71505.589999999997)
+			globalPosition = (55084.16, 947.0706, 171815.06)
 			unitInstanceID = 13
 			unitID = MultiplayerSpawn
-			rotation = (0, 331.5877, 0)
-			lastValidPlacement = (19337.919999999998, 1026.4221, 71505.589999999997)
+			rotation = (0, 169.97498, 0)
+			lastValidPlacement = (55084.16, 947.0706, 171815.06)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = T-55
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Delta
 				startMode = FlightReady
@@ -459,28 +448,28 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
+				slots = 2
 				b_eqAssignmentMode = False
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Echo 1-1
-			globalPosition = (20811.414000000001, 1148.4221, 73244.445000000007)
+			globalPosition = (53137.395, 1069.0706, 170629.78)
 			unitInstanceID = 14
 			unitID = MultiplayerSpawn
-			rotation = (0, 223.5877, 0)
-			lastValidPlacement = (20811.414000000001, 1148.4221, 73244.445000000007)
+			rotation = (0, 61.975006, 0)
+			lastValidPlacement = (53137.395, 1069.0706, 170629.78)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = AV-42C
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Allied:Echo
 				startMode = FlightReady
-				equipment = h70-x7;h70-4x4;h70-x19;mk82x1;mk82x2;mk82x3;mk82HDx1;mk82HDx2;mk82HDx3;agm89x1;gbu38x1;gbu38x2;gbu38x3;gbu39x3;gbu39x4u;cbu97x1;cagm-6;iris-t-x1;iris-t-x2;iris-t-x3;marmx1;av42_gbu12x1;av42_gbu12x2;av42_gbu12x3;
+				equipment = h70-x7;h70-4x4;h70-x19;mk82x1;mk82x2;mk82x3;mk82HDx1;mk82HDx2;mk82HDx3;agm89x1;gbu38x1;gbu38x2;gbu38x3;gbu39x3;gbu39x4u;cbu97x1;hellfirex4;maverickx1;maverickx3;cagm-6;marmx1;av42_gbu12x1;av42_gbu12x2;av42_gbu12x3;
 				initialSpeed = 0
 				rtbIsSpawn = False
 				limitedLives = False
@@ -494,18 +483,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-1
-			globalPosition = (130727.02, 844.10400000000004, 181213.54999999999)
+			globalPosition = (127820.88, 170.06494, 50179.54)
 			unitInstanceID = 15
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 57.87572, 0)
-			lastValidPlacement = (130727.02, 844.10400000000004, 181213.54999999999)
+			rotation = (0, 179.46613, 0)
+			lastValidPlacement = (127820.88, 170.06494, 50179.54)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Zulu
 				startMode = FlightReady
@@ -523,18 +511,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-2
-			globalPosition = (130625.984, 844.10400000000004, 181374.47)
+			globalPosition = (128010.875, 170.06494, 50181.31)
 			unitInstanceID = 16
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 57.87572, 0)
-			lastValidPlacement = (130625.984, 844.10400000000004, 181374.47)
+			rotation = (0, 179.46613, 0)
+			lastValidPlacement = (128010.875, 170.06494, 50181.31)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Zulu
 				startMode = FlightReady
@@ -552,18 +539,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-3
-			globalPosition = (130522.83, 844.10400000000004, 181538.76999999999)
+			globalPosition = (128204.87, 170.06494, 50183.117)
 			unitInstanceID = 17
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 57.87572, 0)
-			lastValidPlacement = (130522.83, 844.10400000000004, 181538.76999999999)
+			rotation = (0, 179.46613, 0)
+			lastValidPlacement = (128204.87, 170.06494, 50183.117)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Zulu
 				startMode = FlightReady
@@ -581,18 +567,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-4
-			globalPosition = (130420.73, 844.10400000000004, 181701.35999999999)
+			globalPosition = (128396.86, 170.06494, 50184.906)
 			unitInstanceID = 18
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 57.87572, 0)
-			lastValidPlacement = (130420.73, 844.10400000000004, 181701.35999999999)
+			rotation = (0, 179.46613, 0)
+			lastValidPlacement = (128396.86, 170.06494, 50184.906)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Zulu
 				startMode = FlightReady
@@ -610,18 +595,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-5
-			globalPosition = (130318.10000000001, 844.10400000000004, 181864.81)
+			globalPosition = (128589.85, 170.06494, 50186.703)
 			unitInstanceID = 19
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 57.87572, 0)
-			lastValidPlacement = (130318.10000000001, 844.10400000000004, 181864.81)
+			rotation = (0, 179.46613, 0)
+			lastValidPlacement = (128589.85, 170.06494, 50186.703)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Zulu
 				startMode = FlightReady
@@ -639,18 +623,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-6
-			globalPosition = (130216.53, 844.10400000000004, 182026.57999999999)
+			globalPosition = (128780.84, 170.06494, 50188.48)
 			unitInstanceID = 20
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 57.87572, 0)
-			lastValidPlacement = (130216.53, 844.10400000000004, 182026.57999999999)
+			rotation = (0, 179.46613, 0)
+			lastValidPlacement = (128780.84, 170.06494, 50188.48)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Zulu
 				startMode = FlightReady
@@ -668,18 +651,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-7
-			globalPosition = (130113.375, 844.10400000000004, 182190.88)
+			globalPosition = (128974.836, 170.06494, 50190.29)
 			unitInstanceID = 21
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 57.87572, 0)
-			lastValidPlacement = (130113.375, 844.10400000000004, 182190.88)
+			rotation = (0, 179.46613, 0)
+			lastValidPlacement = (128974.836, 170.06494, 50190.29)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Zulu
 				startMode = FlightReady
@@ -697,18 +679,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-8
-			globalPosition = (130011.27, 844.10400000000004, 182353.47)
+			globalPosition = (129166.83, 170.06494, 50192.08)
 			unitInstanceID = 22
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 57.87572, 0)
-			lastValidPlacement = (130011.27, 844.10400000000004, 182353.47)
+			rotation = (0, 179.46613, 0)
+			lastValidPlacement = (129166.83, 170.06494, 50192.08)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F/A-26B
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Zulu
 				startMode = FlightReady
@@ -726,22 +707,21 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Yankee 1-1
-			globalPosition = (129591.77, 844.10400000000004, 182993.38)
+			globalPosition = (129931.65, 170.06494, 50214.207)
 			unitInstanceID = 23
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 57.87572, 0)
-			lastValidPlacement = (129591.77, 844.10400000000004, 182993.38)
+			rotation = (0, 179.46613, 0)
+			lastValidPlacement = (129931.65, 170.06494, 50214.207)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = F-45A
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Yankee
 				startMode = FlightReady
-				equipment = f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;f45-gbu53;
+				equipment = f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-gbu53;
 				initialSpeed = 0
 				rtbIsSpawn = False
 				limitedLives = False
@@ -755,18 +735,17 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Xray 1-1
-			globalPosition = (131344.92000000001, 844.10400000000004, 181762.10999999999)
+			globalPosition = (127964.47, 170.06494, 49365.84)
 			unitInstanceID = 24
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 237.8757, 0)
-			lastValidPlacement = (131344.92000000001, 844.10400000000004, 181762.10999999999)
+			rotation = (0, 359.46613, 0)
+			lastValidPlacement = (127964.47, 170.06494, 49365.84)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = EF-24G
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Xray
 				startMode = FlightReady
@@ -778,24 +757,24 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
+				slots = 2
 				b_eqAssignmentMode = False
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Xray 1-2
-			globalPosition = (131227.39999999999, 844.10400000000004, 181949.28)
+			globalPosition = (128185.46, 170.06494, 49367.9)
 			unitInstanceID = 25
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 237.8757, 0)
-			lastValidPlacement = (131227.39999999999, 844.10400000000004, 181949.28)
+			rotation = (0, 359.46613, 0)
+			lastValidPlacement = (128185.46, 170.06494, 49367.9)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = EF-24G
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Xray
 				startMode = FlightReady
@@ -807,24 +786,24 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
+				slots = 2
 				b_eqAssignmentMode = False
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Whiskey 1-1
-			globalPosition = (131446.60999999999, 844.10400000000004, 181543.75)
+			globalPosition = (127725.2, 170.06494, 49393.613)
 			unitInstanceID = 26
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 237.8757, 0)
-			lastValidPlacement = (131446.60999999999, 844.10400000000004, 181543.75)
+			rotation = (0, 359.46613, 0)
+			lastValidPlacement = (127725.2, 170.06494, 49393.613)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = T-55
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Whiskey
 				startMode = FlightReady
@@ -836,24 +815,24 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
+				slots = 2
 				b_eqAssignmentMode = False
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Whiskey 1-2
-			globalPosition = (131421.60999999999, 844.10400000000004, 181583.56)
+			globalPosition = (127772.2, 170.06494, 49394.05)
 			unitInstanceID = 27
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 237.8757, 0)
-			lastValidPlacement = (131421.60999999999, 844.10400000000004, 181583.56)
+			rotation = (0, 359.46613, 0)
+			lastValidPlacement = (127772.2, 170.06494, 49394.05)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = T-55
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Whiskey
 				startMode = FlightReady
@@ -865,24 +844,24 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
+				slots = 2
 				b_eqAssignmentMode = False
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Whiskey 1-3
-			globalPosition = (131373.22, 844.10400000000004, 181660.62)
+			globalPosition = (127863.195, 170.06494, 49394.9)
 			unitInstanceID = 28
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 237.8757, 0)
-			lastValidPlacement = (131373.22, 844.10400000000004, 181660.62)
+			rotation = (0, 359.46613, 0)
+			lastValidPlacement = (127863.195, 170.06494, 49394.9)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = T-55
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Whiskey
 				startMode = FlightReady
@@ -894,28 +873,28 @@ CustomScenario
 				costToSpawn = 0
 				liveryRef = 0;
 				receiveFriendlyDamage = True
+				slots = 2
 				b_eqAssignmentMode = False
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Victor 1-1
-			globalPosition = (129554.71000000001, 966.10400000000004, 183058.60999999999)
+			globalPosition = (130006.64, 292.06494, 50211.605)
 			unitInstanceID = 29
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 130.8757, 0)
-			lastValidPlacement = (129554.71000000001, 966.10400000000004, 183058.60999999999)
+			rotation = (0, 252.46613, 0)
+			lastValidPlacement = (130006.64, 292.06494, 50211.605)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
 			UnitFields
 			{
 				vehicle = AV-42C
-				selectableAltSpawn = False
 				slotLabel = 
 				unitGroup = Enemy:Victor
 				startMode = FlightReady
-				equipment = h70-x7;h70-4x4;h70-x19;mk82x1;mk82x2;mk82x3;mk82HDx1;mk82HDx2;mk82HDx3;agm89x1;gbu38x1;gbu38x2;gbu38x3;gbu39x3;gbu39x4u;cbu97x1;cagm-6;iris-t-x1;iris-t-x2;iris-t-x3;marmx1;av42_gbu12x1;av42_gbu12x2;av42_gbu12x3;
+				equipment = h70-x7;h70-4x4;h70-x19;mk82x1;mk82x2;mk82x3;mk82HDx1;mk82HDx2;mk82HDx3;agm89x1;gbu38x1;gbu38x2;gbu38x3;gbu39x3;gbu39x4u;cbu97x1;hellfirex4;maverickx1;maverickx3;cagm-6;marmx1;av42_gbu12x1;av42_gbu12x2;av42_gbu12x3;
 				initialSpeed = 0
 				rtbIsSpawn = False
 				limitedLives = False
@@ -938,79 +917,79 @@ CustomScenario
 		{
 			id = 0
 			name = Bullseye
-			globalPoint = (75169.190000000002, 933.26306, 127485.375)
+			globalPoint = (91510.46, 556.56775, 110321.125)
 		}
 		WAYPOINT
 		{
 			id = 1
 			name = TeamARTB
-			globalPoint = (19904.120999999999, 1026.4221, 72346.266000000003)
+			globalPoint = (54281.688, 947.0706, 171195.9)
 		}
 		WAYPOINT
 		{
 			id = 2
 			name = spawncamp_A
-			globalPoint = (19904.120999999999, 1026.4221, 72346.266000000003)
+			globalPoint = (54281.688, 947.0706, 171195.9)
 		}
 		WAYPOINT
 		{
 			id = 3
 			name = airbase_A
-			globalPoint = (21274.425999999999, 1026.4221, 73032.990000000005)
+			globalPoint = (52764.723, 947.0706, 170976.5)
 		}
 		WAYPOINT
 		{
 			id = 4
 			name = airbase_A
-			globalPoint = (21228.273000000001, 1026.4221, 73118.304999999993)
+			globalPoint = (52781.61, 947.0706, 170880.97)
 		}
 		WAYPOINT
 		{
 			id = 5
 			name = airbase_A
-			globalPoint = (18560.607, 1026.4221, 71675.164000000004)
+			globalPoint = (55768.3, 947.0706, 171408.95)
 		}
 		WAYPOINT
 		{
 			id = 6
 			name = airbase_A
-			globalPoint = (18606.761999999999, 1026.4221, 71589.850000000006)
+			globalPoint = (55751.414, 947.0706, 171504.47)
 		}
 		WAYPOINT
 		{
 			id = 7
 			name = TeamBRTB
-			globalPoint = (130498.08, 844.10400000000004, 182226.97)
+			globalPoint = (128804.055, 170.06494, 49843.684)
 		}
 		WAYPOINT
 		{
 			id = 8
 			name = spawncamp_B
-			globalPoint = (130498.08, 844.10400000000004, 182226.97)
+			globalPoint = (128804.055, 170.06494, 49843.684)
 		}
 		WAYPOINT
 		{
 			id = 9
 			name = airbase_B
-			globalPoint = (129867.97, 844.10400000000004, 183322.66)
+			globalPoint = (130067.45, 170.06494, 49806.453)
 		}
 		WAYPOINT
 		{
 			id = 10
 			name = airbase_B
-			globalPoint = (129784.97, 844.10400000000004, 183270.54999999999)
+			globalPoint = (130066.55, 170.06494, 49904.45)
 		}
 		WAYPOINT
 		{
 			id = 11
 			name = airbase_B
-			globalPoint = (131098.39999999999, 844.10400000000004, 181178.70000000001)
+			globalPoint = (127596.65, 170.06494, 49881.434)
 		}
 		WAYPOINT
 		{
 			id = 12
 			name = airbase_B
-			globalPoint = (131181.39999999999, 844.10400000000004, 181230.82999999999)
+			globalPoint = (127597.56, 170.06494, 49783.438)
 		}
 	}
 	UNITGROUPS
@@ -1324,7 +1303,322 @@ CustomScenario
 	}
 	EventSequences
 	{
-	}
+		SEQUENCE
+		{
+			id = 0
+			sequenceName = bhit_helmet-1
+			startImmediately = False
+			whileLoop = False
+			ListOrderIndex = 0
+			ListFolderName = 
+			EVENT
+			{
+				delay = 0
+				nodeName = New Node
+				EventInfo
+				{
+					eventName = 
+					EventTarget
+					{
+						targetType = System
+						targetID = 0
+						eventName = Copilot Radio Message
+						methodName = PlayCopilotRadioMessageLowPriority
+						altTargetIdx = -1
+						ParamInfo
+						{
+							type = VTSAudioReference
+							value = HSKillEffects\bhit_helmet-1.mp3
+							name = Audio
+							ParamAttrInfo
+							{
+								type = VTAudioRefProperty+FieldTypes
+								data = CopilotRadio
+							}
+						}
+					}
+				}
+			}
+		}
+		SEQUENCE
+		{
+			id = 1
+			sequenceName = Bonk_Sound_Effect
+			startImmediately = False
+			whileLoop = False
+			ListOrderIndex = 10
+			ListFolderName = 
+			EVENT
+			{
+				delay = 0
+				nodeName = New Node
+				EventInfo
+				{
+					eventName = 
+					EventTarget
+					{
+						targetType = System
+						targetID = 0
+						eventName = Copilot Radio Message
+						methodName = PlayCopilotRadioMessageLowPriority
+						altTargetIdx = -1
+						ParamInfo
+						{
+							type = VTSAudioReference
+							value = HSKillEffects\Bonk_Sound_Effect.mp3
+							name = Audio
+							ParamAttrInfo
+							{
+								type = VTAudioRefProperty+FieldTypes
+								data = CopilotRadio
+							}
+						}
+					}
+				}
+			}
+		}
+		SEQUENCE
+		{
+			id = 2
+			sequenceName = critical-hit-sounds-effect
+			startImmediately = False
+			whileLoop = False
+			ListOrderIndex = 20
+			ListFolderName = 
+			EVENT
+			{
+				delay = 0
+				nodeName = New Node
+				EventInfo
+				{
+					eventName = 
+					EventTarget
+					{
+						targetType = System
+						targetID = 0
+						eventName = Copilot Radio Message
+						methodName = PlayCopilotRadioMessageLowPriority
+						altTargetIdx = -1
+						ParamInfo
+						{
+							type = VTSAudioReference
+							value = HSKillEffects\critical-hit-sounds-effect.mp3
+							name = Audio
+							ParamAttrInfo
+							{
+								type = VTAudioRefProperty+FieldTypes
+								data = CopilotRadio
+							}
+						}
+					}
+				}
+			}
+		}
+		SEQUENCE
+		{
+			id = 3
+			sequenceName = halosplash
+			startImmediately = False
+			whileLoop = False
+			ListOrderIndex = 30
+			ListFolderName = 
+			EVENT
+			{
+				delay = 0
+				nodeName = New Node
+				EventInfo
+				{
+					eventName = 
+					EventTarget
+					{
+						targetType = System
+						targetID = 0
+						eventName = Copilot Radio Message
+						methodName = PlayCopilotRadioMessageLowPriority
+						altTargetIdx = -1
+						ParamInfo
+						{
+							type = VTSAudioReference
+							value = HSKillEffects\halosplash.mp3
+							name = Audio
+							ParamAttrInfo
+							{
+								type = VTAudioRefProperty+FieldTypes
+								data = CopilotRadio
+							}
+						}
+					}
+				}
+			}
+		}
+		SEQUENCE
+		{
+			id = 4
+			sequenceName = overwatch-kill-sound
+			startImmediately = False
+			whileLoop = False
+			ListOrderIndex = 40
+			ListFolderName = 
+			EVENT
+			{
+				delay = 0
+				nodeName = New Node
+				EventInfo
+				{
+					eventName = 
+					EventTarget
+					{
+						targetType = System
+						targetID = 0
+						eventName = Copilot Radio Message
+						methodName = PlayCopilotRadioMessageLowPriority
+						altTargetIdx = -1
+						ParamInfo
+						{
+							type = VTSAudioReference
+							value = HSKillEffects\overwatch-kill-sound.mp3
+							name = Audio
+							ParamAttrInfo
+							{
+								type = VTAudioRefProperty+FieldTypes
+								data = CopilotRadio
+							}
+						}
+					}
+				}
+			}
+		}
+		SEQUENCE
+		{
+			id = 5
+			sequenceName = Trident_return3
+			startImmediately = False
+			whileLoop = False
+			ListOrderIndex = 50
+			ListFolderName = 
+			EVENT
+			{
+				delay = 0
+				nodeName = New Node
+				EventInfo
+				{
+					eventName = 
+					EventTarget
+					{
+						targetType = System
+						targetID = 0
+						eventName = Copilot Radio Message
+						methodName = PlayCopilotRadioMessageLowPriority
+						altTargetIdx = -1
+						ParamInfo
+						{
+							type = VTSAudioReference
+							value = HSKillEffects\Trident_return3.mp3
+							name = Audio
+							ParamAttrInfo
+							{
+								type = VTAudioRefProperty+FieldTypes
+								data = CopilotRadio
+							}
+						}
+					}
+				}
+			}
+		}
+		SEQUENCE
+		{
+			id = 6
+			sequenceName = war-thunder-kill
+			startImmediately = False
+			whileLoop = False
+			ListOrderIndex = 60
+			ListFolderName = 
+			EVENT
+			{
+				delay = 0
+				nodeName = New Node
+				EventInfo
+				{
+					eventName = 
+					EventTarget
+					{
+						targetType = System
+						targetID = 0
+						eventName = Copilot Radio Message
+						methodName = PlayCopilotRadioMessageLowPriority
+						altTargetIdx = -1
+						ParamInfo
+						{
+							type = VTSAudioReference
+							value = HSKillEffects\war-thunder-kill.mp3
+							name = Audio
+							ParamAttrInfo
+							{
+								type = VTAudioRefProperty+FieldTypes
+								data = CopilotRadio
+							}
+						}
+					}
+				}
+			}
+		}
+		SEQUENCE
+		{
+			id = 7
+			sequenceName = ServerEndNotif
+			startImmediately = False
+			whileLoop = False
+			ListOrderIndex = 70
+			ListFolderName = 
+			EVENT
+			{
+				delay = 0
+				nodeName = New Node
+				EventInfo
+				{
+					eventName = 
+					EventTarget
+					{
+						targetType = System
+						targetID = 1
+						eventName = Display Message
+						methodName = DisplayMessage
+						altTargetIdx = -1
+						ParamInfo
+						{
+							type = System.String
+							{value} = {Server will restart in 5 minutes! "Vote Kick" the map you would like next!}
+							name = Text
+							ParamAttrInfo
+							{
+								type = TextInputModes
+								data = MultiLine
+							}
+							ParamAttrInfo
+							{
+								type = System.Int32
+								data = 140
+							}
+						}
+						ParamInfo
+						{
+							type = System.Single
+							value = 5
+							name = Duration
+							ParamAttrInfo
+							{
+								type = MinMax
+								data = (1,9999)
+							}
+						}
+					}
+				}
+			}
+		}
+		FOLDER_DATA
+		{
+		}
+	}	
 	BASES
 	{
 		BaseInfo
@@ -1340,7 +1634,7 @@ CustomScenario
 		{
 			id = 1
 			overrideBaseName = 
-			baseTeam = Enemy
+			baseTeam = Allied
 			CUSTOM_DATA
 			{
 			}
@@ -1358,33 +1652,6 @@ CustomScenario
 		{
 			id = 3
 			overrideBaseName = 
-			baseTeam = Allied
-			CUSTOM_DATA
-			{
-			}
-		}
-		BaseInfo
-		{
-			id = 25
-			overrideBaseName = 
-			baseTeam = Allied
-			CUSTOM_DATA
-			{
-			}
-		}
-		BaseInfo
-		{
-			id = 52
-			overrideBaseName = 
-			baseTeam = Allied
-			CUSTOM_DATA
-			{
-			}
-		}
-		BaseInfo
-		{
-			id = 53
-			overrideBaseName = 
 			baseTeam = Enemy
 			CUSTOM_DATA
 			{
@@ -1392,7 +1659,7 @@ CustomScenario
 		}
 		BaseInfo
 		{
-			id = 54
+			id = 25
 			overrideBaseName = 
 			baseTeam = Enemy
 			CUSTOM_DATA
@@ -1405,9 +1672,25 @@ CustomScenario
 	}
 	Briefing
 	{
+		BRIEFING_NOTE
+		{
+			text = Welcome to the 24/7 ranked server.///nMissile intercepting is disabled.///nCollisions with aircraft are enabled.///nDo not get closer than 13nm to the enemy airbase. Join https://discord.gg/yQ8ZW8cQRt for more information and a leaderboard!
+			imagePath = 
+			audioClipPath = 
+		}
 	}
 	Briefing_B
 	{
+	}
+	ResourceManifest
+	{
+		0 = HSKillEffects\bhit_helmet-1.mp3
+		1 = HSKillEffects\Bonk_Sound_Effect.mp3
+		2 = HSKillEffects\critical-hit-sounds-effect.mp3
+		3 = HSKillEffects\halosplash.mp3
+		4 = HSKillEffects\overwatch-kill-sound.mp3
+		5 = HSKillEffects\Trident_return3.mp3
+		6 = HSKillEffects\war-thunder-kill.mp3
 	}
 }
 
