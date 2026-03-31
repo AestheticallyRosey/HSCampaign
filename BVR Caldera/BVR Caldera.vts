@@ -2,11 +2,11 @@ CustomScenario
 {
 	gameVersion = 1.12.6f1
 	campaignID = Headless Server
-	campaignOrderIdx = 4
-	scenarioName = BVR MtnLakes
-	scenarioID = BVR MtnLakes
+	campaignOrderIdx = 2
+	scenarioName = BVR Caldera
+	scenarioID = BVR Caldera
 	scenarioDescription = 24/7 BVR. Each team gets 8x F/A-26b, 2x EF-24, 3x T-55, 1x F-45
-	mapID = hm_mtnLake
+	mapID = Caldera
 	vehicle = F-45A
 	multiplayer = True
 	allowedEquips = f45_gun;f45_sidewinderx2;f45_aim9x1;f45_amraamInternal;f45_amraamRail;f45_mk82x1;f45_mk82Internal;f45_mk82x4Internal;f45_gbu12x2Internal;f45_gbu12x1;f45-gbu39;f45_agm161;f45_agm161Internal;f45_droptank;f45_gbu38x1;f45_gbu38x2Internal;f45_gbu38x4Internal;f45_mk83x1;f45_mk83x1Internal;f45-agm145I;f45-agm145ISide;f45-agm145x3;f45-gbu53;
@@ -58,11 +58,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-1
-			globalPosition = (168675.10000000001, 279.64746000000002, 149310.57999999999)
+			globalPosition = (166017.89000000001, 1946.3203000000001, 99049.199999999997)
 			unitInstanceID = 0
 			unitID = MultiplayerSpawn
-			rotation = (0, 327.6166, 0)
-			lastValidPlacement = (168675.10000000001, 279.64746000000002, 149310.57999999999)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (166017.89000000001, 1946.3203000000001, 99049.199999999997)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -87,11 +87,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-2
-			globalPosition = (168480.85999999999, 279.64746000000002, 149187.39000000001)
+			globalPosition = (166017.89000000001, 1946.3203000000001, 99279.199999999997)
 			unitInstanceID = 1
 			unitID = MultiplayerSpawn
-			rotation = (0, 327.6166, 0)
-			lastValidPlacement = (168480.85999999999, 279.64746000000002, 149187.39000000001)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (166017.89000000001, 1946.3203000000001, 99279.199999999997)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -116,11 +116,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-3
-			globalPosition = (168308.60000000001, 279.64746000000002, 149078.14000000001)
+			globalPosition = (166017.89000000001, 1946.3203000000001, 99483.199999999997)
 			unitInstanceID = 2
 			unitID = MultiplayerSpawn
-			rotation = (0, 327.6166, 0)
-			lastValidPlacement = (168308.60000000001, 279.64746000000002, 149078.14000000001)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (166017.89000000001, 1946.3203000000001, 99483.199999999997)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -145,11 +145,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-4
-			globalPosition = (167982.60999999999, 279.64746000000002, 148871.39999999999)
+			globalPosition = (166017.89000000001, 1946.3203000000001, 99869.199999999997)
 			unitInstanceID = 3
 			unitID = MultiplayerSpawn
-			rotation = (0, 327.6166, 0)
-			lastValidPlacement = (167982.60999999999, 279.64746000000002, 148871.39999999999)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (166017.89000000001, 1946.3203000000001, 99869.199999999997)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -174,11 +174,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-5
-			globalPosition = (167812.88, 279.64746000000002, 148763.75)
+			globalPosition = (166017.89000000001, 1946.3203000000001, 100070.2)
 			unitInstanceID = 4
 			unitID = MultiplayerSpawn
-			rotation = (0, 327.6166, 0)
-			lastValidPlacement = (167812.88, 279.64746000000002, 148763.75)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (166017.89000000001, 1946.3203000000001, 100070.2)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -203,11 +203,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-6
-			globalPosition = (167643.14000000001, 279.64746000000002, 148656.10000000001)
+			globalPosition = (166017.89000000001, 1946.3203000000001, 100271.2)
 			unitInstanceID = 5
 			unitID = MultiplayerSpawn
-			rotation = (0, 327.6166, 0)
-			lastValidPlacement = (167643.14000000001, 279.64746000000002, 148656.10000000001)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (166017.89000000001, 1946.3203000000001, 100271.2)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -232,11 +232,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-7
-			globalPosition = (167446.38, 279.64746000000002, 148531.31)
+			globalPosition = (166017.89000000001, 1946.3203000000001, 100504.2)
 			unitInstanceID = 6
 			unitID = MultiplayerSpawn
-			rotation = (0, 327.6166, 0)
-			lastValidPlacement = (167446.38, 279.64746000000002, 148531.31)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (166017.89000000001, 1946.3203000000001, 100504.2)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -261,11 +261,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Alpha 1-8
-			globalPosition = (167154.17000000001, 279.64746000000002, 148346)
+			globalPosition = (166017.89000000001, 1946.3203000000001, 100850.2)
 			unitInstanceID = 7
 			unitID = MultiplayerSpawn
-			rotation = (0, 327.6166, 0)
-			lastValidPlacement = (167154.17000000001, 279.64746000000002, 148346)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (166017.89000000001, 1946.3203000000001, 100850.2)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -290,11 +290,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Bravo 1-1
-			globalPosition = (166983.60000000001, 279.64746000000002, 148237.81)
+			globalPosition = (166017.89000000001, 1946.3203000000001, 101052.2)
 			unitInstanceID = 8
 			unitID = MultiplayerSpawn
-			rotation = (0, 327.6166, 0)
-			lastValidPlacement = (166983.60000000001, 279.64746000000002, 148237.81)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (166017.89000000001, 1946.3203000000001, 101052.2)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -319,11 +319,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Charlie 1-1
-			globalPosition = (167469.5, 279.64746000000002, 149508.69)
+			globalPosition = (166830.89000000001, 1946.3203000000001, 99961.199999999997)
 			unitInstanceID = 9
 			unitID = MultiplayerSpawn
-			rotation = (0, 147.6166, 0)
-			lastValidPlacement = (167469.5, 279.64746000000002, 149508.69)
+			rotation = (0, 270, 0)
+			lastValidPlacement = (166830.89000000001, 1946.3203000000001, 99961.199999999997)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -349,11 +349,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Charlie 1-2
-			globalPosition = (167113.97, 279.64746000000002, 149283.22)
+			globalPosition = (166830.89000000001, 1946.3203000000001, 100382.2)
 			unitInstanceID = 10
 			unitID = MultiplayerSpawn
-			rotation = (0, 147.6166, 0)
-			lastValidPlacement = (167113.97, 279.64746000000002, 149283.22)
+			rotation = (0, 270, 0)
+			lastValidPlacement = (166830.89000000001, 1946.3203000000001, 100382.2)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -379,11 +379,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Delta 1-1
-			globalPosition = (168297.10000000001, 279.64746000000002, 150033.56)
+			globalPosition = (166830.89000000001, 1946.3203000000001, 98981.199999999997)
 			unitInstanceID = 11
 			unitID = MultiplayerSpawn
-			rotation = (0, 147.6166, 0)
-			lastValidPlacement = (168297.10000000001, 279.64746000000002, 150033.56)
+			rotation = (0, 270, 0)
+			lastValidPlacement = (166830.89000000001, 1946.3203000000001, 98981.199999999997)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -403,16 +403,17 @@ CustomScenario
 				liveryRef = 0;
 				receiveFriendlyDamage = True
 				b_eqAssignmentMode = False
+				slots = 2
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Delta 1-2
-			globalPosition = (168118.89999999999, 279.64746000000002, 149920.56)
+			globalPosition = (166830.89000000001, 1946.3203000000001, 99192.199999999997)
 			unitInstanceID = 12
 			unitID = MultiplayerSpawn
-			rotation = (0, 147.6166, 0)
-			lastValidPlacement = (168118.89999999999, 279.64746000000002, 149920.56)
+			rotation = (0, 270, 0)
+			lastValidPlacement = (166830.89000000001, 1946.3203000000001, 99192.199999999997)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -432,16 +433,17 @@ CustomScenario
 				liveryRef = 0;
 				receiveFriendlyDamage = True
 				b_eqAssignmentMode = False
+				slots = 2
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Delta 1-3
-			globalPosition = (167936.5, 279.64746000000002, 149804.88)
+			globalPosition = (166830.89000000001, 1946.3203000000001, 99408.199999999997)
 			unitInstanceID = 13
 			unitID = MultiplayerSpawn
-			rotation = (0, 147.6166, 0)
-			lastValidPlacement = (167936.5, 279.64746000000002, 149804.88)
+			rotation = (0, 270, 0)
+			lastValidPlacement = (166830.89000000001, 1946.3203000000001, 99408.199999999997)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -461,16 +463,17 @@ CustomScenario
 				liveryRef = 0;
 				receiveFriendlyDamage = True
 				b_eqAssignmentMode = False
+				slots = 2
 			}
 		}
 		UnitSpawner
 		{
 			unitName = Echo 1-1
-			globalPosition = (166586.97, 401.64746000000002, 147968.16)
+			globalPosition = (166002.60000000001, 2068.3202999999999, 101531.57000000001)
 			unitInstanceID = 14
 			unitID = MultiplayerSpawn
-			rotation = (0, 39.61658, 0)
-			lastValidPlacement = (166586.97, 401.64746000000002, 147968.16)
+			rotation = (0, 162, 0)
+			lastValidPlacement = (166002.60000000001, 2068.3202999999999, 101531.57000000001)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -495,11 +498,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-1
-			globalPosition = (47389.438000000002, 65.058589999999995, 140648.10000000001)
+			globalPosition = (29911.969000000001, 1447.6152, 92062.639999999999)
 			unitInstanceID = 15
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 162.359, 0)
-			lastValidPlacement = (47389.438000000002, 65.058589999999995, 140648.10000000001)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (29911.969000000001, 1447.6152, 92062.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -524,11 +527,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-2
-			globalPosition = (47570.504000000001, 65.058589999999995, 140705.67000000001)
+			globalPosition = (29911.969000000001, 1447.6152, 92252.639999999999)
 			unitInstanceID = 16
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 162.359, 0)
-			lastValidPlacement = (47570.504000000001, 65.058589999999995, 140705.67000000001)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (29911.969000000001, 1447.6152, 92252.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -553,11 +556,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-3
-			globalPosition = (47755.379999999997, 65.058589999999995, 140764.47)
+			globalPosition = (29911.969000000001, 1447.6152, 92446.639999999999)
 			unitInstanceID = 17
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 162.359, 0)
-			lastValidPlacement = (47755.379999999997, 65.058589999999995, 140764.47)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (29911.969000000001, 1447.6152, 92446.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -582,11 +585,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-4
-			globalPosition = (47938.349999999999, 65.058589999999995, 140822.66)
+			globalPosition = (29911.969000000001, 1447.6152, 92638.639999999999)
 			unitInstanceID = 18
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 162.359, 0)
-			lastValidPlacement = (47938.349999999999, 65.058589999999995, 140822.66)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (29911.969000000001, 1447.6152, 92638.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -611,11 +614,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-5
-			globalPosition = (48122.277000000002, 65.058589999999995, 140881.14000000001)
+			globalPosition = (29911.969000000001, 1447.6152, 92831.639999999999)
 			unitInstanceID = 19
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 162.359, 0)
-			lastValidPlacement = (48122.277000000002, 65.058589999999995, 140881.14000000001)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (29911.969000000001, 1447.6152, 92831.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -640,11 +643,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-6
-			globalPosition = (48304.292999999998, 65.058589999999995, 140939.03)
+			globalPosition = (29911.969000000001, 1447.6152, 93022.639999999999)
 			unitInstanceID = 20
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 162.359, 0)
-			lastValidPlacement = (48304.292999999998, 65.058589999999995, 140939.03)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (29911.969000000001, 1447.6152, 93022.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -669,11 +672,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-7
-			globalPosition = (48489.169999999998, 65.058589999999995, 140997.81)
+			globalPosition = (29911.969000000001, 1447.6152, 93216.639999999999)
 			unitInstanceID = 21
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 162.359, 0)
-			lastValidPlacement = (48489.169999999998, 65.058589999999995, 140997.81)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (29911.969000000001, 1447.6152, 93216.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -698,11 +701,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Zulu 1-8
-			globalPosition = (48672.139999999999, 65.058589999999995, 141056)
+			globalPosition = (29911.969000000001, 1447.6152, 93408.639999999999)
 			unitInstanceID = 22
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 162.359, 0)
-			lastValidPlacement = (48672.139999999999, 65.058589999999995, 141056)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (29911.969000000001, 1447.6152, 93408.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -727,11 +730,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Yankee 1-1
-			globalPosition = (49396.620000000003, 65.058589999999995, 141302.14000000001)
+			globalPosition = (29896.969000000001, 1447.6152, 94173.639999999999)
 			unitInstanceID = 23
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 162.359, 0)
-			lastValidPlacement = (49396.620000000003, 65.058589999999995, 141302.14000000001)
+			rotation = (0, 90, 0)
+			lastValidPlacement = (29896.969000000001, 1447.6152, 94173.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -756,11 +759,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Xray 1-1
-			globalPosition = (47766.029999999999, 65.058589999999995, 139912.64000000001)
+			globalPosition = (30726.969000000001, 1447.6152, 92198.639999999999)
 			unitInstanceID = 24
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 342.359, 0)
-			lastValidPlacement = (47766.029999999999, 65.058589999999995, 139912.64000000001)
+			rotation = (0, 270, 0)
+			lastValidPlacement = (30726.969000000001, 1447.6152, 92198.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -785,11 +788,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Xray 1-2
-			globalPosition = (47976.637000000002, 65.058589999999995, 139979.60999999999)
+			globalPosition = (30726.969000000001, 1447.6152, 92419.639999999999)
 			unitInstanceID = 25
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 342.359, 0)
-			lastValidPlacement = (47976.637000000002, 65.058589999999995, 139979.60999999999)
+			rotation = (0, 270, 0)
+			lastValidPlacement = (30726.969000000001, 1447.6152, 92419.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -814,11 +817,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Whiskey 1-1
-			globalPosition = (47529.18, 65.058589999999995, 139868.79999999999)
+			globalPosition = (30696.969000000001, 1447.6152, 91959.639999999999)
 			unitInstanceID = 26
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 342.359, 0)
-			lastValidPlacement = (47529.18, 65.058589999999995, 139868.79999999999)
+			rotation = (0, 270, 0)
+			lastValidPlacement = (30696.969000000001, 1447.6152, 91959.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -843,11 +846,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Whiskey 1-2
-			globalPosition = (47573.970000000001, 65.058589999999995, 139883.04999999999)
+			globalPosition = (30696.969000000001, 1447.6152, 92006.639999999999)
 			unitInstanceID = 27
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 342.359, 0)
-			lastValidPlacement = (47573.970000000001, 65.058589999999995, 139883.04999999999)
+			rotation = (0, 270, 0)
+			lastValidPlacement = (30696.969000000001, 1447.6152, 92006.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -872,11 +875,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Whiskey 1-3
-			globalPosition = (47660.688000000002, 65.058589999999995, 139910.62)
+			globalPosition = (30696.969000000001, 1447.6152, 92097.639999999999)
 			unitInstanceID = 28
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 342.359, 0)
-			lastValidPlacement = (47660.688000000002, 65.058589999999995, 139910.62)
+			rotation = (0, 270, 0)
+			lastValidPlacement = (30696.969000000001, 1447.6152, 92097.639999999999)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -901,11 +904,11 @@ CustomScenario
 		UnitSpawner
 		{
 			unitName = Victor 1-1
-			globalPosition = (49469.055, 187.05860000000001, 141321.70000000001)
+			globalPosition = (29900.27, 1569.6152, 94248.600000000006)
 			unitInstanceID = 29
 			unitID = MultiplayerSpawnEnemy
-			rotation = (0, 235.359, 0)
-			lastValidPlacement = (49469.055, 187.05860000000001, 141321.70000000001)
+			rotation = (0, 163, 0)
+			lastValidPlacement = (29900.27, 1569.6152, 94248.600000000006)
 			editorPlacementMode = Ground
 			onCarrier = False
 			mpSelectEnabled = True
@@ -939,79 +942,79 @@ CustomScenario
 		{
 			id = 0
 			name = Bullseye
-			globalPoint = (107974.49000000001, 170.35302999999999, 144575.60000000001)
+			globalPoint = (98118.929999999993, 1694.9677999999999, 96740.919999999998)
 		}
 		WAYPOINT
 		{
 			id = 1
 			name = TeamARTB
-			globalPoint = (167429.88, 279.64746000000002, 148927.01999999999)
+			globalPoint = (166360.89000000001, 1946.3203000000001, 100306.2)
 		}
 		WAYPOINT
 		{
 			id = 2
 			name = spawncamp_A
-			globalPoint = (167429.88, 279.64746000000002, 148927.01999999999)
+			globalPoint = (166360.89000000001, 1946.3203000000001, 100306.2)
 		}
 		WAYPOINT
 		{
 			id = 3
 			name = airbase_A
-			globalPoint = (166110.42000000001, 279.64746000000002, 148147.03)
+			globalPoint = (166408.89000000001, 1946.3203000000001, 101838.2)
 		}
 		WAYPOINT
 		{
 			id = 4
 			name = airbase_A
-			globalPoint = (166162.38, 279.64746000000002, 148065.12)
+			globalPoint = (166311.89000000001, 1946.3203000000001, 101838.2)
 		}
 		WAYPOINT
 		{
 			id = 5
 			name = airbase_A
-			globalPoint = (168723.69, 279.64746000000002, 149689.54999999999)
+			globalPoint = (166311.89000000001, 1946.3203000000001, 98805.199999999997)
 		}
 		WAYPOINT
 		{
 			id = 6
 			name = airbase_A
-			globalPoint = (168671.73000000001, 279.64746000000002, 149771.45000000001)
+			globalPoint = (166408.89000000001, 1946.3203000000001, 98805.199999999997)
 		}
 		WAYPOINT
 		{
 			id = 7
 			name = TeamBRTB
-			globalPoint = (48427.906000000003, 65.058589999999995, 140616.31)
+			globalPoint = (30256.969000000001, 1447.6152, 93042.639999999999)
 		}
 		WAYPOINT
 		{
 			id = 8
 			name = spawncamp_B
-			globalPoint = (48427.906000000003, 65.058589999999995, 140616.31)
+			globalPoint = (30256.969000000001, 1447.6152, 93042.639999999999)
 		}
 		WAYPOINT
 		{
 			id = 9
 			name = airbase_B
-			globalPoint = (49646.362999999998, 65.058589999999995, 140952.38)
+			globalPoint = (30305.969000000001, 1447.6152, 94305.639999999999)
 		}
 		WAYPOINT
 		{
 			id = 10
 			name = airbase_B
-			globalPoint = (49616.663999999997, 65.058589999999995, 141045.76999999999)
+			globalPoint = (30207.969000000001, 1447.6152, 94305.639999999999)
 		}
 		WAYPOINT
 		{
 			id = 11
 			name = airbase_B
-			globalPoint = (47262.815999999999, 65.058589999999995, 140297.22)
+			globalPoint = (30207.969000000001, 1447.6152, 91835.639999999999)
 		}
 		WAYPOINT
 		{
 			id = 12
 			name = airbase_B
-			globalPoint = (47292.516000000003, 65.058589999999995, 140203.82999999999)
+			globalPoint = (30305.969000000001, 1447.6152, 91835.639999999999)
 		}
 	}
 	UNITGROUPS
@@ -1330,7 +1333,7 @@ CustomScenario
 	{
 		BaseInfo
 		{
-			id = 45
+			id = 0
 			overrideBaseName = 
 			baseTeam = Allied
 			CUSTOM_DATA
@@ -1339,7 +1342,16 @@ CustomScenario
 		}
 		BaseInfo
 		{
-			id = 46
+			id = 1
+			overrideBaseName = 
+			baseTeam = Enemy
+			CUSTOM_DATA
+			{
+			}
+		}
+		BaseInfo
+		{
+			id = 2
 			overrideBaseName = 
 			baseTeam = Allied
 			CUSTOM_DATA
@@ -1348,7 +1360,7 @@ CustomScenario
 		}
 		BaseInfo
 		{
-			id = 37
+			id = 3
 			overrideBaseName = 
 			baseTeam = Enemy
 			CUSTOM_DATA
@@ -1357,25 +1369,16 @@ CustomScenario
 		}
 		BaseInfo
 		{
-			id = 36
+			id = 4
 			overrideBaseName = 
-			baseTeam = Enemy
+			baseTeam = Allied
 			CUSTOM_DATA
 			{
 			}
 		}
 		BaseInfo
 		{
-			id = 51
-			overrideBaseName = 
-			baseTeam = Enemy
-			CUSTOM_DATA
-			{
-			}
-		}
-		BaseInfo
-		{
-			id = 49
+			id = 5
 			overrideBaseName = 
 			baseTeam = Enemy
 			CUSTOM_DATA
